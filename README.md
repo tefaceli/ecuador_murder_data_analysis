@@ -2,7 +2,7 @@
 
 This repository includes the analysis of data on intentional homicides in Ecuador between 2023 and May 2025. The information used for the analysis was obtained from the [Ecuadorian Government’s Open Data Portal](https://datosabiertos.gob.ec/dataset/homicidios-intencionales).
 
-"The goal of this project is to provide a deeper analysis of violent deaths in Ecuador. Typically, analyses are carried out at the provincial or cantonal level. However, this repository includes analysis at the parish and neighborhood levels.
+The goal of this project is to provide a deeper analysis of violent deaths in Ecuador. Typically, analyses are carried out at the provincial or cantonal level. However, this repository includes analysis at the parish and neighborhood levels.
 
 To perform the geospatial analysis, I used shapefiles from the National Electoral Council (CNE), with two types of divisions:
 
